@@ -1,9 +1,9 @@
 {
     "name": "Ch4-kmeans",
     "version": "1.0.0",
-    "description": "ML in JS Example for Chapter 4 - kmeans",
+    "description": "ML kmeans algo",
     "main": "src/index.js",
-    "author": "Burak Kanber",
+    "author": "Evan Drake",
     "license": "MIT",
     "scripts": {
       "build-web": "browserify src/index.js -o dist/index.js -t [ babelify --presets [ env ] ]",
